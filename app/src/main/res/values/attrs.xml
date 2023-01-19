@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomComponentLayout">
+
+        <attr name="button" format="string"/>
+        <attr name="input_type" format="string"/>
+
+    </declare-styleable>
+</resources>
